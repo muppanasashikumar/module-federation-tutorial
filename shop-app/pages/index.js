@@ -15,7 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-    <Nav>This is the nav in app 2</Nav>
+    <Nav>This is the nav in Shop App</Nav>
       <main className={styles.main}>
         <h1 className={styles.title}>
           Welcome to the Shop app port: 3001
